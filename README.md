@@ -6,4 +6,4 @@ vdo-tach
 2. Trip meter
 3. resistor voltage divider from supply to Analogue A-D pin for supply/battery voltage sensing including any erors with alternator
 Texas instruments i2c 3 wire digital tem sensors displayt engine manifold temp
-Oil pressure 
+Oil pressure+ 
